@@ -6,7 +6,7 @@
 
 //TYPE ALIAS
 interface Student {
-      name:string ,
+      name:string;
       class : number
       rollNo : number
 };

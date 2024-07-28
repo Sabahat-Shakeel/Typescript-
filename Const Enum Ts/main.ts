@@ -12,10 +12,10 @@ enum colo{
     grey 
  }
  console.log(colo.grey);
- console.log(colo[3]) // undefined
+ console.log(colo[3]); // undefined
 
 enum color { green, red, blue};  
-console.log(color.green) ; 
- console.log(typeof color) 
- console.log(color[1]);     //output will be "0" and "red".
+console.log(color.green);  
+console.log(color[1]);     //output will be "0" and "red".
+console.log(typeof color)  //output object
 

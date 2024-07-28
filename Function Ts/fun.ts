@@ -41,7 +41,7 @@ function rest (str: string, ...rest: number[] ) {
    console.log(str);
    console.log(rest.join(" "))
      };
-   rest("Page Founded or maybe not...! ", 404, 200,202,100,400 )
+   rest("Page Founded...! ", 404,400,402)
     
 
 

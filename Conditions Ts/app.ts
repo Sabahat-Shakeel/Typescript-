@@ -16,13 +16,13 @@ if (color === "green"){
 let name2 = ["kim", "jeon", "park", "suga"];
 
 if (name2 [0] === "kim"){
-    console.log("your name is sabahat")
+    console.log("kim is your friend")
 } else if (name2 [1] === "jeon"){
-    console.log("he is your elder brother")
+    console.log("he is your best friend")
 } else if (name2 [2] === "park"){
-    console.log("he is your brother as same age")
+    console.log("he is your enemy")
 }else if (name2 [3] ===   "suga"){
-    console.log("she is your elder sister")
+    console.log("unknown person")
 } else {
-    console.log("no name include here")
+    console.log("no one name here! ")
 }
